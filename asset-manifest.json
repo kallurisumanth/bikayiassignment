@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bikayiassignment/static/css/main.5c1e1612.css",
+    "main.js": "/bikayiassignment/static/js/main.ae654090.js",
+    "index.html": "/bikayiassignment/index.html",
+    "main.5c1e1612.css.map": "/bikayiassignment/static/css/main.5c1e1612.css.map",
+    "main.ae654090.js.map": "/bikayiassignment/static/js/main.ae654090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c1e1612.css",
+    "static/js/main.ae654090.js"
+  ]
+}
