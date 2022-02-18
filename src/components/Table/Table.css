@@ -1,0 +1,21 @@
+.table-container {
+  display: flex;
+  flex-direction: column;
+  padding: 2px 3%;
+  background-color: transparent;
+}
+.table-header {
+  display: flex;
+  background-color: #5588cc;
+  color: #fff;
+  padding: 0;
+}
+.table-header > h3 {
+  border: 2px solid;
+  height: 100%;
+}
+.table-header-item {
+  flex: 4;
+  border: 2px solid;
+  padding: 1px 0px 1px 4px;
+}

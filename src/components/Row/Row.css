@@ -1,0 +1,8 @@
+.row-container {
+  display: flex;
+  background-color: transparent;
+}
+.row-data {
+  flex: 4;
+  padding: 1.5px 0px 1.5px 4px;
+}
