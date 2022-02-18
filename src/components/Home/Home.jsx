@@ -44,7 +44,7 @@ function Home() {
 
   useEffect(() => {
     const getData = async () => {
-      const response = await fetch('http://api.nobelprize.org/v1/prize.json');
+      const response = await fetch('https://api.nobelprize.org/v1/prize.json');
       const data = await response.json();
       const dats = data.prizes;
       var finaldata = [];
